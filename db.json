@@ -12,6 +12,29 @@
         "Lettuce",
         "Tomatoes"
       ]
+    },
+    {
+      "id": 2,
+      "name": "Brad's Chedda Sandwich",
+      "bread": "Wheat",
+      "ingredients": [
+        "Turkey",
+        "Ham",
+        "Lettuce",
+        "Tomatoes",
+        "Cheddar Cheese"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Wheat Sandwich",
+      "bread": "White",
+      "ingredients": [
+        "Turkey",
+        "Bacon",
+        "Tomatoes",
+        "Lettuce"
+      ]
     }
   ],
   "ingredients": [
